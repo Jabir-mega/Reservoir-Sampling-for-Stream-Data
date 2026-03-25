@@ -7,4 +7,5 @@ items using reservoir sampling. Show that the sample is representative by compar
 statistics (mean, distribution) with the full stream.
 Dataset: Generate synthetic stream of numbers (normal distribution, random values)
 Success Criteria: Sample statistics closely match population statistics (within 5%)
-help me understand this concept and solve
+
+Reservoir Sampling guarantees fairness in one pass, constant memory
